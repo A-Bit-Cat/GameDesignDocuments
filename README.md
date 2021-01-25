@@ -1,8 +1,5 @@
 # No Arts Dungeon 设计文档总览
 
-### MindMap
-![MindMap](http://www.plantuml.com/plantuml/png/SoWkIImgoStCIybDBE3IKd0fpKjFpSyBpo_AIU7Iqb9urjNmRCxwPzFQdorS3EA_MBVlwRfP2FxJrcrFTa-3yhaSKlDIe6O10000)
-
 ### 设定相关文档书写规范
 - 本游戏文档分为两大部分
     - 技术部分：记录游戏设计程序相关的想法，主要一UML为主
