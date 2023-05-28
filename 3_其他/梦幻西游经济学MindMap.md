@@ -61,10 +61,30 @@ skinparam defaultFontName AR PL UMing CN
 ******* 有时候设计的需求玩家不认，就会变成垃圾机制
 ******** 例如：老子不想钓鱼
 ****** 运营方可以尽可能排除市场干扰
-******* 现在很流行完全不管二级市场的设计
-
+******* 现在很流行完全不要二级市场的设计
 ***** 玩家和核心需求是有趣
+****** 数据是假象
+******* 本质是比较
+******** 和别人比
+********* 获取优越感
+******** 和自己比
+********* 获取成就感
+******* 目的是调动主观能动性
+******** 让玩家清晰的知道自己在做什么
+****** 有趣是核心
+******* 探索驱动
+******** 大量新内容带来的新鲜感
+******* 破坏驱动
+******** 击败强敌的成就感
+******* 数值驱动
+******** 累积数字，提高数据的成就感
+******* 社交驱动
+******** 通过人与人之间的交集制造故事
+***** 经济系统的非必要性
+
 
 ** 游戏经济系统的模型
 ** 为何梦幻西游长盛不衰
 @endmindmap
+
+![MindMap](http://www.plantuml.com/plantuml/png/SYWkIImgoStCIybDBE0gpixCAqWiIinLI4bDIopDAN7BpolnIynDLN0CKWZmKGZrpSnBLt3sum8KNcr9YIL1zDzLz7UlOZOp--0XWZmkj82YW82YeBON4CJx4DXCPLRThzx2dEg4WcQCcOYE3gZAnyciaoVb-pU-UwGmrd6LtprwVJpvZgCWu4Bru0Xdvlg6Ipspk5FHID-SwlDGPq9x0_EhVd9TquqUhdvzbl7LBEvL7DEmGeMbFIdKkFDJhJoAp-5YVP9y5TPKysWu8ozMyGUbFhTtL7tcpZdTtLAnpzs1YfUmGqw1GCqpggVvl08RvoOuoccSuPjy1IRoRv9qdN8VpgHJeUB0cPZL1D7LvmtzQErCJENUFE-Z03jDPwvGdZTD_Xc7QbNNytY7U9DB1Z5TbBKt9VzM1Q-0AxqocxOPb2dtWojtybb0w_W7qBcaYn45QGc36fB63Ixr-PE3eTSUvR9oZjZSckZUdD_a1Guiq3jt9mzehVk1zg_GDHUEgaCLt-FAPO9NSj_x8sKK09COK7j5_b9j1gurtwGCdjzHSKp3qQuIMXV83xbLf-eL5QOqlDJDCXBHQaRrojQNcrEk-E00hD5EtTWs62-5weq_rBq7imxXkKkswbCLR_K0B2f8gU2PFsBG0-HIgpDWvxU1YY9uuh7m6S-aeY5GE5ZLYWfBC4U3pAFboTxya4UE_O1yW0DkbtGsLv6dlITq0hUe0GNiugkWWXiS8wmWXRSA8lApk4ho5IJTsKe2Eil1dAejzCyoSF9fyWj9QSyNJnnbtLkeTOaUCybhWt8h5MnRQkvpDCoZzm2424dSWhiCZmg652uid4tNBCRSwUsOsku3rM5bDjbhYpfZD4TEx9j98TCk_Y6qr2Bp1ug0IJ2GfjdUpmVyzd9oC3357XMxE-KuKXCt9Ux4ubqrqIQgbOK7HmQwtz1FIw4zW89PLc-AIqwbLL1IdoqgNtApeBtyjaetXZAnGZ4U3m0V8tdmRFiKFt-2LvJE6t_z2mM_dt9K0p0a-g-OIIF5apHYod29xdHIFClyVeGYt7V7OefZKSFZgFOPWWnr8jIuPVWjgeiWejpDu1Pge-EUuzkwZJne65yjrQgZ6sDmKmBOcGWQAhhGxS1DdNi7IVLbQy4ml4EIkZ6RF7iZQBTamOSarPVynpE2Ii0lEADIsEtWRGtCfcPg3r1iBZsWSbaKtCrIOIyp8dhYJdwBBqFKmwyYhMwsJfSoU22ZR0oQX898Z-TMeAB7tsp7jX3FeuBbGGN0bwd509P2aF_9RhmFMbzPwx1cblTEnYKBUXAz89TCo54wwQyabSuAOVOPnGBpX-SN2ohxAgpYOKLQt2mAyPBhKogwP0xrKLtI3PvOO88QyNPg4KE4s7kGoOANh5SnGqupJY7myJ0dzJNMCqB3tyfNAWSUk6841XPWTdNKTYJ5eLmbgGn5ZGFYLd18FXRcECaNkR4MiwFPkZsbE096v1D0c5hZ3sJLqIQxJvKho9Ku8WFtGwmU-ShUcDzBBZdRWVBepF9fdrO2eHiw4rAsoik2MOIeM8NdSYstc4DANJiSaa1OOuloXqY0PGC6GVAjHjvcgRFcJkIcPg_pLe1IQNgjmPEpy-IYdipSoyfCOKo42pHTuODjidUHN0-b60hV-7mg7Y8oLZRN1NvFumyGQQz5zGZfAkje95w0BVXFn4tGGw-bgL8IMevg3pWlknp7LZnd0vVKAGDF6cQTtTU8W5Hu0Rrn8QTIb_U19GinDyiYd_R-i8VOqiViAtlvysnl3zHjN-JCJBDWDLxAZ3Be3pvpQdIoz_UVf40ESdmzXGzMOfAkIoxRh_IDYbCgBEmgbReH-OXaxDtfnLtoD4EA0zX3goDyESMY9p-au96xThFZ97dh_86ulw1kzL_--TWi7kWpujyx-gXGQJm6_jXDBoPwDB5thrUMqzLQyjAID_eoYXvYn8OIvKi9ykp_OIcvMi3VchRFH9IucLDHwUHmaOeYmoxftaBjm2_RyfFZtnJE32kPRals6fA6tIE_HSp31jP9SwFRRSlImVJahx_nkqP-s_m3)
